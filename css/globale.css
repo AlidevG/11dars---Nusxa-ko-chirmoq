@@ -604,11 +604,13 @@ h1 {
     display: flex;
     gap: 10px;
     margin-top: 108px;
+    align-items: center;
+    justify-content: center;
 }
 
-.main_h2 {
+/* .main_h2 {
     margin-left: 100px;
-}
+} */
 
 .main1 {
     background-color: #F6F6F6;
